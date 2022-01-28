@@ -1,16 +1,6 @@
-# tennislegenda
+# Simple Gallery GetX
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div class="flex">
+<image src="https://user-images.githubusercontent.com/71244612/151592831-4111a65a-2205-460e-918d-f05349760387.png" width=45%>
+<image src="https://user-images.githubusercontent.com/71244612/151592835-e2f6330c-34d6-4f56-8392-0279dd1873a8.png" width=45%>
+<div>
